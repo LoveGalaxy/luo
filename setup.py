@@ -12,7 +12,7 @@ def read(fname):
 
 setup(
     name = "luo",
-    version = "0.0.1",
+    version = "0.0.2",
     description = "tools for luo",
     long_description = read("README.txt"),
     classifiers =
@@ -32,7 +32,7 @@ setup(
 
     ],
     keywords = "tools",
-    author = "luoyucheng",
+    author = "yucheng",
     author_email = "yuchengluo@outlook.com",
     url ="https://github.com/guruL/luo",
     license = "MIT",
