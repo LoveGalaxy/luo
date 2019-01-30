@@ -12,7 +12,7 @@ def read(fname):
 
 setup(
     name = "luo",
-    version = "0.0.2",
+    version = "0.0.3",
     description = "tools for luo",
     long_description = read("README.txt"),
     classifiers =
